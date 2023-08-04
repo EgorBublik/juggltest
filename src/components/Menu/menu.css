@@ -1,0 +1,13 @@
+.menu .header {
+    padding: 0 8px 0 12px;
+}
+
+.menu-item {
+    height: 36px;
+    align-items: center;
+}
+
+.menu-list-header {
+    height: 24px;
+    justify-content: center;
+}
