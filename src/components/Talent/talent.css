@@ -1,0 +1,13 @@
+.cards-block {
+    background-color: #fff;
+    border: 1px solid #E6E6E7;
+    border-radius: 8px;
+    padding: 24px 24px 32px 24px;
+}
+
+.cards-content-stroke {
+    border: 1px solid #F2F3F3;
+    border-radius: 8px;
+    background-color: #FAFAFA;
+    padding: 16px;
+}
